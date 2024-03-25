@@ -1,0 +1,5 @@
+1;keyboard_usb;30.000
+2;mouse;25.000
+3;notebook;1.000.000
+4;memory_usb;40.000
+5;ipad;1.500.000
