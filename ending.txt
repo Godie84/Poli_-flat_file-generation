@@ -1,0 +1,41 @@
+What was learned during development:
+
+Learning about file manipulation in Java:
+Through this project, I gained experience in reading and writing files in Java using the File classes,
+BufferedReader, BufferedWriter, FileReader and FileWriter. I understood how to work with different types of files and
+handle exceptions related to file operations.
+
+Working with collections and data flows:
+I used collections like List to store information about products
+and sellers, and learned how to manipulate this data efficiently using loops and collection methods in Java.
+I also practiced using data streams to read and write information sequentially.
+
+Random data generation: I implemented random sales generation, which allowed me to practice generating
+of random numbers in Java and how to integrate them into a larger workflow.
+
+Possible applications in my professional life:
+Development of data management applications:
+The knowledge acquired in this project is essential to develop applications that handle large volumes
+such as inventory management systems, accounting systems, and sales management systems.
+Automation of data processing tasks: The ability to programmatically read and write files is
+essential for automating repetitive tasks in professional environments, such as reporting,
+data migration and systems integration.
+
+Development of data analysis applications:
+
+Experience in data manipulation and random data generation can be helpful in application development
+of data analysis and simulation, where it is required to work with large data sets and perform complex calculations.
+
+Difficulties during the development of the project:
+Exception Handling: One of the challenges was understanding and properly handling exceptions that may arise during
+reading and writing files, as well as during other input/output operations.
+
+Code design and organization:
+As the project grew, the need arose to organize the code more efficiently to keep it clear and easy to understand.
+
+This involved decisions about the structure of the project, the division into classes and methods, and the management of dependencies between components.
+
+Testing and debugging: Ensuring that the program works correctly in different scenarios and handling unexpected errors during
+program execution were major challenges. This required extensive testing and effective debugging techniques.
+to identify and solve problems.
+En
